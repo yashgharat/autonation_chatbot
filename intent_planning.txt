@@ -1,0 +1,10 @@
+# Intent Planning for AutoBot
+
+## Greeting
+
+greeting ---> Hi! this is the autobot! How may I be of assistance today? To Find out more about what I can do, type "HELP"
+
+## HELP
+
+## CustomerInfo
+
